@@ -1,0 +1,18 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Sep 30 14:18:54 BST 2019
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-SAMLEngine/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Node/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-SP/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Node/../EIDAS-Encryption/src/main/lib/.lastUpdated=1565085151771
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Specific/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Encryption/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-SP/../EIDAS-Encryption/src/main/lib/.lastUpdated=1563389473598
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-SAMLEngine/../EIDAS-Encryption/src/main/lib/.lastUpdated=1563389513329
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-IdP-1.0/../EIDAS-Encryption/src/main/lib/.lastUpdated=1563811081425
+https\://build.shibboleth.net/nexus/content/groups/public/.lastUpdated=1563389513314
+https\://repo.maven.apache.org/maven2/.lastUpdated=1563389473848
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Specific/../EIDAS-Encryption/src/main/lib/.lastUpdated=1563957036999
+https\://build.shibboleth.net/nexus/content/groups/public/.error=
+https\://repo.maven.apache.org/maven2/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Encryption/../EIDAS-Encryption/src/main/lib/.lastUpdated=1569849534344
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-IdP-1.0/../EIDAS-Encryption/src/main/lib/.error=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jul 24 16:10:54 BST 2019
+eidas-node-1.4.3-javadoc.jar>=
+eidas-node-1.4.3.pom>=
+eidas-node-1.4.3-sources.jar>=
+eidas-node-1.4.3.war>=

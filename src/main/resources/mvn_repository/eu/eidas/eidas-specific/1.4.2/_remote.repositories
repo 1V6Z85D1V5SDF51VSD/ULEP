@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 03 12:14:32 BST 2018
+eidas-specific-1.4.2-sources.jar>=
+eidas-specific-1.4.2.pom>=
+eidas-specific-1.4.2-javadoc.jar>=
+eidas-specific-1.4.2.jar>=

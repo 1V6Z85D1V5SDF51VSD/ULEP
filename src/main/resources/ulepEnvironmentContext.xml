@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-4.1.xsd">
+
+	
+	<bean id="spConfigRepository" class="java.lang.String">
+		 <constructor-arg value="#{ systemProperties['ULEP_SP'] ?: systemEnvironment['ULEP_SP'] }" />
+       <!-- <constructor-arg value="C:/Projectos/Spring/ULEP/IdPBroker/src/main/resources/configuration/sp/" />--> 
+    </bean>
+	
+	<bean id="idpConfigRepository" class="java.lang.String">
+		  <constructor-arg value="#{ systemProperties['ULEP_IDP'] ?: systemEnvironment['ULEP_IDP'] }" /> 
+        <!--<constructor-arg value="C:/Projectos/Spring/ULEP/IdPBroker/src/main/resources/configuration/idp/" />--> 
+    </bean> 
+    
+	<!--
+	
+	<bean id="idpBrokerConfigRepository" class="java.lang.String">
+        <constructor-arg value="#{ systemProperties['IDPBROKER_CONFIG_REPOSITORY'] ?: systemEnvironment['IDPBROKER_CONFIG_REPOSITORY'] }" />
+    </bean>
+    
+    -->
+</beans>

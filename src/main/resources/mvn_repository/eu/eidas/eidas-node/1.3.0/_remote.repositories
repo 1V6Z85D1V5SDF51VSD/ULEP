@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Mar 13 16:15:18 GMT 2019
+eidas-node-1.3.0.pom>=
+eidas-node-1.3.0.war>=

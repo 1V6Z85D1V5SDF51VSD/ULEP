@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 03 12:15:10 BST 2018
+eidas-idp-1.4.2-sources.jar>=
+eidas-idp-1.4.2-javadoc.jar>=
+eidas-idp-1.4.2.pom>=
+eidas-idp-1.4.2.war>=

@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 04 15:58:06 BST 2019
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Node/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-SAMLEngine/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Node/../EIDAS-Encryption/src/main/lib/.lastUpdated=1554389886860
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Specific/../EIDAS-Encryption/src/main/lib/.error=
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-SAMLEngine/../EIDAS-Encryption/src/main/lib/.lastUpdated=1554282135655
+https\://build.shibboleth.net/nexus/content/groups/public/.lastUpdated=1554282135643
+https\://repo.maven.apache.org/maven2/.lastUpdated=1554282135676
+file\://C\:\\Projectos\\BuildEIDAS\\EidasNode-PT\\EIDAS-Specific/../EIDAS-Encryption/src/main/lib/.lastUpdated=1554287051052
+https\://repo.maven.apache.org/maven2/.error=
+https\://build.shibboleth.net/nexus/content/groups/public/.error=

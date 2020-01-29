@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 03 12:14:29 BST 2018
+eidas-specific-communication-definition-1.4.2.jar>=
+eidas-specific-communication-definition-1.4.2-sources.jar>=
+eidas-specific-communication-definition-1.4.2.pom>=
+eidas-specific-communication-definition-1.4.2-javadoc.jar>=
